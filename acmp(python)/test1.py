@@ -1,6 +1,0 @@
-n = int(input())
-list1 = input().split()
-list2 = list(map(int, list1))
-print(n)
-print(list1)
-print(list2)
